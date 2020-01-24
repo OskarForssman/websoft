@@ -9,4 +9,13 @@ body {
     margin: 8px auto;
     background: #fff;
     width: 700px;
+
+    background-color: powderblue;
 }
+h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+
