@@ -1,0 +1,58 @@
+
+#mydiv {
+    position: absolute;
+    z-index: 9;
+    background-color: #f1f1f1;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+  }
+  
+  #mydivheader {
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: black;
+    color: #fff;
+  }
+  
+  header nav a{
+    text-align: center;
+          color: white;
+      }
+      header nav a:hover{
+        text-align: center;
+                  color: red;
+          }
+  
+  body{
+    text-align: center;
+  background-color: black;
+  color: white;
+  }
+  html{
+    text-align: center;
+      background-color: black;
+      color: white;
+  
+  }
+  
+  th, td, input {
+    font:14px Verdana;
+  }
+  
+  table, th, td 
+  {
+    border: solid 1px #DDD;
+    border-collapse: collapse;
+    padding: 2px 3px;
+    
+  }
+
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  th {
+    font-weight:bold;
+  }
