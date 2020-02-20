@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+<?php include 'header.php';?>
 <head>
     <meta charset="utf-8">
     <title>Report from the course sections</title>
@@ -29,15 +30,7 @@ header nav a:hover{
 <body>
     
 
-<header>
-    <nav>
-        <a href="me.html">Me</a> |
-        <a href="report.html">Report</a> | 
-        <a href="about.html">About</a>
-        <a href="schools2.html">Schools</a>
-        <a href="lotto.html">Lotto</a>
-    </nav>
-</header>
+
 
 
 
@@ -132,7 +125,25 @@ header nav a:hover{
 
 <section>
 <h2>S05</h2>
-<p>Here is the text for this section.</p>
+<p>
+How do you feel about PHP as a programming language?
+It was kinda similair to the html and js i thought, i did more or less the same for the header,nav.. in javascript
+and html. Was quite nice they way it could produce dynamic webpages. I need some more hours to give a better assesment 
+because ive simply just done the task but it seemd fun similair and easy going at first sight!.
+Can you compare PHP to other languages you know?
+PHP and Java are both very similar when it comes to the benefits provided, 
+but they are both very different. PHP is a server side scripting language, 
+while Java is a client side choice. When you use PHP code, 
+you will execute it in the actual server,
+while Java will be executed on your client's computer.
+Describe how you took on the coding exercise, what grade did you aim for and are you satisfied with the result?
+Due to alot of work with examwork ive only focused the grade 3 if i get time which i think i will have in begining
+of march i will continue and aim for higher grades. My result was ok i think i have some redundacy with css and 
+some code that need to be fixed and i will do.
+What is your TIL for this course section?
+Do my own connection im not that big fan off getting provided all code and just ctrl c+ ctrl v so i will go 
+through the code and do my own to truly test php as stated above.
+</p>
 </section>
 
 <section>
@@ -160,10 +171,6 @@ header nav a:hover{
 <p>Here is the text for this section.</p>
 </section>
 
-<footer>
-    <hr>
-    <p>OskarForssman Website</p>
-</footer>
 
 </article>
 
