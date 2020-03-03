@@ -148,7 +148,56 @@ through the code and do my own to truly test php as stated above.
 
 <section>
 <h2>S06</h2>
-<p>Here is the text for this section.</p>
+<p>
+    <p>
+    What is your own opinion on popularity of programming languages and what are your thoughts of future popularity among programing languages?
+    In todays climate it seems programming languages that can be used for machine learning is whats the future. Almost all companies and goverments
+    want to implement machine learning in a variety of diffrent functionality to help them. Even through you can more or less do machine learning 
+    in every programming language, languagues like python,c++ is the preferd and got a big popularity. In otherhand some langagues such as java in certain
+    scenarios are getting replaced. Java have gone to kotlin which is a simplyfied easier way of writing java code. I feel like its runs much smoother and
+    is much esier to handle certain syntax. I feel like in the future remodled old popular language and simplifications of existing one is what we 
+    are striving for!.
+
+</p>
+    <p>
+    What will be your own choice for selecting future programming languages?
+    Due to the fact im intressted doing a master  programming in machine learning i will strive to learn python which most of todays machine learning scripts 
+    is written in. Another choice is a programming language thats easy to get job with like javascript or css, should be worth my time continue with these languages
+    to become more fluent in them. 
+    </p>
+    <p>
+    Do your own investigation on https://trends.google.com (Links to an external site.) to customize your own comparison on programming languages (or frameworks) and elaborate on the results.
+    If you were to recommend a language/framework/technology to your potential employer and your next large project, what would it be and how would you “sell it”?
+    
+    Low level/High level: Originally, we divided languages based on High level or Low level. COBOL, FORTRAN, BASIC, C, PASCAL were known as high level languages, in contrast to Assembler or Machine Level Languages.
+
+    3rd, 4th and 5th Generation Languages: Languages were classified in this manner with 3rd gen. covering the procedural languages (COBOL, C, PASCAL, FORTRAN etc.), 4th gen. covering languages that were closer to
+     human language (SQL, Informix 4GL) and 5th gen. languages as those that solved specific problems within given constraints.
+
+     Procedural, OO, Functional: Then came the classifications of Procedural COBOL, C, PASCAL, FORTRAN etc., Object Oriented (Smalltalk, Java, C++ etc) and Functional Languages (Common Lisp
+     , Scheme, Clojure, Erlang, Haskell, and F#).
+
+     Static or dynamically typed languages: Another classification style classifies languages based on if the Object types checking is done at compile (fr example Java, C++ etc) time or run time.
+
+     Interpreted and compiled languages: Interpreted languages are not compiled and run using an interpreter. Many scripting languages are interpreted.
+
+     Database Languages: In 80s and 90s, clipper, DBase etc were very popular languages. Among other things, people wrote accounting, inventory management, order management softwares in these. These are also somewhat of 4GLs.
+
+     Concurrent v/s Single threaded languages: As the name suggests, the languages that provide concurrent programming models as their prime purpose, get categorized under this section. 
+     Notable are Java threads, Kotlin Coroutines, AKKA Actors etc.
+
+     This is just some of the programming language types i find. To even begin to recommend something from a potential employer i must know all around that project what its goal is and so on and with that information i could do
+     good judgement and provide it to them.
+    </p>
+    
+    <p>
+    What is your TIL for this course section?
+    Well this 3years program is soon ending, ive learned java and the things we have had in the courses but its time to push it further. Really get into python or 
+    any other programmin language i think suit me and i would want to work with the rest of my life!. 
+    </p>
+    
+
+</p>
 </section>
 
 <section>
