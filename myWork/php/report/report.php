@@ -202,17 +202,63 @@ through the code and do my own to truly test php as stated above.
 
 <section>
 <h2>S07</h2>
-<p>Here is the text for this section.</p>
+<p>
+Try to explain the platform .NET (C#, ASP.NET) to a skilled programmer, but newbie to this Microsoft technology.
+.NET is a free, cross-platform, open source developer platform for building many different types of applications.
+With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, gaming, and IoT.
+You can write .NET apps in C#, F#, or Visual Basic.Whether you're working in C#, F#, or Visual Basic, your code will run natively on any compatible OS. 
+Different .NET implementations handle the heavy lifting for you. .NET Standard is a base set of APIs that are common to all .NET implementations.
+To extend functionality, Microsoft and others maintain a healthy package ecosystem built on .NET Standard.
+
+
+Elaborate by comparing .NET technologies with the other technologies we learned during the course.
+ASP.NET is a paid Microsoft provided web application framework whereas PHP is server-side scripting language which is open source. ASP.NET is better 
+suited for large and medium-sized organization whereas PHP is better equipped to server start-up and small sized organizations.
+
+You can't compare . NET with JavaScript. . NET is a framework written in C# language whereas JavaScript itself is a language.
+You simply can't compare a framework with a language.
+
+Describe how you took on the coding exercise, what grade did you aim for and are you satisfied with the result?
+I thought this coding task was quite hard and was one of the few coding takes in this course i truly set myself 
+aswell as i needed to ask help from friends in certain scenarios. I tried to do everything due to this reason and 
+will continue workin with it this week to get even more secure in .net.
+What is your TIL for this course section?
+Sit more about the webpage part of the .net i felt like console was remenicense of java but webapp was quite are had ned and new and i need to sit 
+more with it!.
+
+</p>
 </section>
 
 <section>
 <h2>S08</h2>
 <p>
+Group members: Oskar Forssman, Liridon Smajli, Henrik Vihlborg
+
+Chosen pages: Blocket (Oskar), Aftonbladet (Liridon), HKR (Henrik)
+
+Data sheet: https://docs.google.com/spreadsheets/d/1cXB8Q30yARvPpxOt7vSUHlE9bKbWzlKaMRxOq5YOwT8/
+
+HKR.se was chosen since it is the university we go to.
+
+HKR.se seems to be much faster than the other two. It uses best practice a clear majority of the time.
+The best improvement according to the tools from google is to preload resources. This would speed up things quite a bit.
+
+
+Aftonbladet was chosen because it is a popular site for news and it was interesting to see how it would hold up in terms of performance when it came to visiting their website.
+
+The site Aftonbladet suffers mainly from two things: using document.write a lot and having pictures with the wrong aspect ratio.
+This leads to the main thread being overused and slowing down the loading of the site.
+
+Blocket was chosen because we like to sell stuff there. Its a site simply with ads both and it was interesting to see how it held up to the others with performance.
+
+The site Blocket suffers from the vast amount of ads that get published all the time. The tools used recommend to update to http2 and fix so the images are in correct aspect ratio.
+
+
     What is your TIL for this course section?
     Well its always usefull to learn about how diffrent sites work and functions. My goal is to go through the source code
     from these sites to see its source code the understand deeper why their practise are good and how they have programmed
     their website.
-    <a href="https://docs.google.com/document/d/1pnE-kj-IzwPb56JKDUd5BYF3_zrfzw8HaTxlK3JFhVY/edit">Report!</a> 
+    
 </p>
 <section>
 <h2>S09</h2>
