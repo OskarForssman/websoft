@@ -12,7 +12,8 @@ namespace app
         {
                string option = "";
                string FormatAccountsHeader = String.Format("{0, 10} {1, 10} {2,10} {3, 10}", "Number", "Balance", "Label", "Owner");
-            while (true) {
+            bool bajs=true;
+            while (bajs) {
                 var accs = ReadAccounts();
                 Console.WriteLine("-------Menu-------");
                 Console.WriteLine("1: View accounts");
@@ -43,8 +44,16 @@ namespace app
                     string FormatAccount = String.Format("{0, 10} {1, 10} {2, 10} {3, 10}", accs.ElementAt(nr).Number, accs.ElementAt(nr).Balance, accs.ElementAt(nr).Label, accs.ElementAt(nr).Owner);
                     Console.WriteLine(FormatAccount);
                     break;
-    
-            } 
+                      
+                            case "3":
+                            bajs=false;
+                            break;
+
+
+                            }
+                            
+
+ 
         }
 
         static IEnumerable<Account> ReadAccounts()
