@@ -1,9 +1,0 @@
-Did you before know about the techniques Git, GitHub, Markdown and/or GitHub Pages?
-Yes we have used github over ther last 2 semesters we noramlly use it in our projects
-we havnt used githpages tho.
-Have you ever created websites before?
-No i have not created websites before but im looking forward to it
-Briefly explain your experience and knowledge of web application development.
-I dont have much knowledge about new things just the old jsp file and xml files to create basic webpages
-What is your TIL for this course section?
-How to setup githubpages properly and learn how easy it is to accually create a website in it.

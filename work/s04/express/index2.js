@@ -6,7 +6,7 @@
 const port    = process.env.DBWEBB_PORT || 1337;
 const express = require("express");
 const app     = express();
-const routeIndex = require("s04/express/index.js");
+const routeIndex = require("./route/index.js");
 const middleware = require("./middleware/index.js");
 
 app.use(middleware.logIncomingToConsole);

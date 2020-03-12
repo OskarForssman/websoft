@@ -9,6 +9,7 @@ const express = require("express");
 const app     = express();
 const routeIndex = require("./route/index.js");
 const routeToday = require("./route/today.js");
+const routeLotto=require("./route/lotto.js");
 const middleware = require("./middleware/index.js");
 
 app.set("view engine", "ejs");
@@ -17,6 +18,7 @@ app.use(middleware.logIncomingToConsole);
 app.use(express.static(path.join(__dirname, "public")));
 app.use("/", routeIndex);
 app.use("/today", routeToday);
+app.use("/lotto",routeLotto);
 app.listen(port, logStartUpDetailsToConsole);
 
 
